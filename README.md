@@ -1,2 +1,1 @@
-I've now updated My first readme
-git pull
+I've now updated My first readme.md
