@@ -1,2 +1,1 @@
-readme
-git pull
+readme.md
